@@ -1,4 +1,4 @@
-# Computer Science Project:
+# Computer Science Project (Rouge Like RPG):
 
 A rouge like RPG based off of python terminal which will be able to run on mobile using a different graphics mode
 
